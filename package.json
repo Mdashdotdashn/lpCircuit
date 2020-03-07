@@ -1,0 +1,25 @@
+{
+  "name": "lpcircuit",
+  "version": "1.0.0",
+  "description": "a launchad interface to sequence the circuit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdashdotdashn/lpCircuit.git"
+  },
+  "author": "marc nostromo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdashdotdashn/lpCircuit/issues"
+  },
+  "homepage": "https://github.com/Mdashdotdashn/lpCircuit#readme",
+  "dependencies": {
+    "easymidi": "^1.0.3",
+    "launchpad-mini": "^2.3.0",
+    "nanotimer": "^0.3.15",
+    "performance-now": "^2.1.0"
+  }
+}
